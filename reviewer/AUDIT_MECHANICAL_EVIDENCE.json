@@ -1,0 +1,3404 @@
+{
+  "deliverables": [
+    {
+      "path": "reviewer/ANSWER_KEY.md",
+      "bytes": 13296,
+      "words": 1793,
+      "modified": "2026-10-21T23:26:07.694089",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# LCASEAN — Explained answer key"
+        },
+        {
+          "line": 5,
+          "heading": "## Part I — Multiple choice"
+        },
+        {
+          "line": 23,
+          "heading": "## Part II — Correct the claim"
+        },
+        {
+          "line": 33,
+          "heading": "## Part III — Short answers"
+        },
+        {
+          "line": 35,
+          "heading": "### 21. Sovereignty and historical context"
+        },
+        {
+          "line": 41,
+          "heading": "### 22. Institutional functions"
+        },
+        {
+          "line": 47,
+          "heading": "### 23. Consensus"
+        },
+        {
+          "line": 53,
+          "heading": "### 24. Comparison limits"
+        },
+        {
+          "line": 59,
+          "heading": "### 25. Trust and political will"
+        },
+        {
+          "line": 65,
+          "heading": "### 26. Four challenges in Acharya"
+        },
+        {
+          "line": 74,
+          "heading": "## Part IV — Applied questions"
+        },
+        {
+          "line": 76,
+          "heading": "### 27. Emergency response"
+        },
+        {
+          "line": 86,
+          "heading": "### 28. Centrality inference"
+        },
+        {
+          "line": 94,
+          "heading": "## Part V — Essay"
+        },
+        {
+          "line": 96,
+          "heading": "### 29. Model argument and outline"
+        },
+        {
+          "line": 109,
+          "heading": "## Revision advice"
+        }
+      ],
+      "A_I_section_words": {}
+    },
+    {
+      "path": "reviewer/CONNECTIONS.md",
+      "bytes": 6286,
+      "words": 851,
+      "modified": "2026-10-21T23:23:42.873596",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# LCASEAN — Connections and comparisons"
+        },
+        {
+          "line": 5,
+          "heading": "## 1. State-building → sovereignty → ASEAN's institutional design"
+        },
+        {
+          "line": 13,
+          "heading": "## 2. Earlier rivalry → repeated consultation → trust, but not automatic unity"
+        },
+        {
+          "line": 21,
+          "heading": "## 3. ASEAN Way → legal institutions: coexistence rather than simple replacement"
+        },
+        {
+          "line": 33,
+          "heading": "## 4. Enlargement → representation and capacity pressures"
+        },
+        {
+          "line": 41,
+          "heading": "## 5. Consensus → acceptance and potential blockage"
+        },
+        {
+          "line": 49,
+          "heading": "## 6. Three pillars → different functions within shared problems"
+        },
+        {
+          "line": 61,
+          "heading": "## 7. Cambodia → tension between sovereignty and protection"
+        },
+        {
+          "line": 69,
+          "heading": "## 8. Major-power competition → centrality as a conditional role"
+        },
+        {
+          "line": 77,
+          "heading": "## 9. Official documents versus scholarly/advocacy readings"
+        },
+        {
+          "line": 87,
+          "heading": "## 10. Four reusable essay questions"
+        }
+      ],
+      "A_I_section_words": {}
+    },
+    {
+      "path": "reviewer/COVERAGE_REPORT.md",
+      "bytes": 10055,
+      "words": 1599,
+      "modified": "2026-10-21T23:27:13.811217",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# LCASEAN — Source coverage report"
+        },
+        {
+          "line": 5,
+          "heading": "## How to read the statuses"
+        },
+        {
+          "line": 13,
+          "heading": "## Every local resource"
+        },
+        {
+          "line": 61,
+          "heading": "## External links W01–W10"
+        },
+        {
+          "line": 65,
+          "heading": "## Module and deliverable status"
+        },
+        {
+          "line": 82,
+          "heading": "## Audit trail and safeguards"
+        }
+      ],
+      "A_I_section_words": {}
+    },
+    {
+      "path": "reviewer/MASTER_REVIEWER.md",
+      "bytes": 125915,
+      "words": 17320,
+      "modified": "2026-10-21T23:28:10.243181",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# LCASEAN — Master reviewer (working edition)"
+        },
+        {
+          "line": 6,
+          "heading": "## How to study now"
+        },
+        {
+          "line": 15,
+          "heading": "## Chapter navigation"
+        },
+        {
+          "line": 26,
+          "heading": "# 01 — Regional foundations: the idea of Southeast Asia and the making of ASEAN"
+        },
+        {
+          "line": 30,
+          "heading": "## A. Introduction: why the region had to be invented"
+        },
+        {
+          "line": 36,
+          "heading": "## B. Comprehensive lesson"
+        },
+        {
+          "line": 38,
+          "heading": "### 1. The idea of the region: World War II to independence"
+        },
+        {
+          "line": 48,
+          "heading": "### 2. Diversity as the defining condition"
+        },
+        {
+          "line": 56,
+          "heading": "### 3. Great powers and the autonomy problem"
+        },
+        {
+          "line": 66,
+          "heading": "### 4. Bangkok, 8 August 1967: ASEAN's founding"
+        },
+        {
+          "line": 74,
+          "heading": "### 5. Consolidation: 1976 first summit, TAC, and Concord I"
+        },
+        {
+          "line": 82,
+          "heading": "### 6. Enlargement: founding five to ten"
+        },
+        {
+          "line": 95,
+          "heading": "### 7. Vision 2020 and the community idea"
+        },
+        {
+          "line": 99,
+          "heading": "## C. Terms and distinctions"
+        },
+        {
+          "line": 108,
+          "heading": "## D. Dates, people, and agreements worth knowing"
+        },
+        {
+          "line": 119,
+          "heading": "## E. Cause-and-effect chains"
+        },
+        {
+          "line": 127,
+          "heading": "## F. Connections to other lessons"
+        },
+        {
+          "line": 131,
+          "heading": "## G. Worked example"
+        },
+        {
+          "line": 135,
+          "heading": "## H. Takeaways and exam traps"
+        },
+        {
+          "line": 148,
+          "heading": "## I. References and coverage"
+        },
+        {
+          "line": 157,
+          "heading": "# 02 — Country Histories: Post-War Trajectories, State-Building, and Foreign Policies"
+        },
+        {
+          "line": 163,
+          "heading": "## A. Introduction: Domestic Vulnerability and Foreign Policy"
+        },
+        {
+          "line": 174,
+          "heading": "## B. Comprehensive Country Case Studies"
+        },
+        {
+          "line": 176,
+          "heading": "### 1. The Philippines: From US Dependency to Diversified Regionalism"
+        },
+        {
+          "line": 178,
+          "heading": "#### Constitutional Order and Oligarchic Politics (1946–1972)"
+        },
+        {
+          "line": 183,
+          "heading": "#### The Marcos Era: Martial Law and Authoritarian Centralization (1965–1986)"
+        },
+        {
+          "line": 193,
+          "heading": "#### Democratic Restoration: Aquino and Ramos (1986–1990s)"
+        },
+        {
+          "line": 196,
+          "heading": "#### Philippine Foreign Policy Trajectory"
+        },
+        {
+          "line": 205,
+          "heading": "### 2. Indonesia: From Revolutionary Guided Democracy to Suharto's New Order"
+        },
+        {
+          "line": 207,
+          "heading": "#### Parliamentary Instability and Guided Democracy (1949–1965)"
+        },
+        {
+          "line": 215,
+          "heading": "#### The 1965 Cataclysm and the Rise of the New Order (*Orde Baru*)"
+        },
+        {
+          "line": 218,
+          "heading": "#### Pillars of Suharto’s New Order (1966–1998)"
+        },
+        {
+          "line": 226,
+          "heading": "### 3. Malaysia, Singapore, and Brunei: Federation, Separation, and Consolidation"
+        },
+        {
+          "line": 228,
+          "heading": "#### The Federation of Malaya and the Birth of Malaysia"
+        },
+        {
+          "line": 233,
+          "heading": "#### The Separation of Singapore (August 9, 1965)"
+        },
+        {
+          "line": 236,
+          "heading": "#### Malaysia: The May 13 Riots and the New Economic Policy (NEP)"
+        },
+        {
+          "line": 246,
+          "heading": "#### The Mahathir Era (1981–2003)"
+        },
+        {
+          "line": 253,
+          "heading": "#### Singapore: State Survival, Corporatism, and Developmentalism"
+        },
+        {
+          "line": 262,
+          "heading": "#### Brunei Darussalam: The Shell-Fare Sultanate"
+        },
+        {
+          "line": 267,
+          "heading": "### 4. Thailand: The Bureaucratic Polity, Coup Cycles, and Democratic Awakening"
+        },
+        {
+          "line": 269,
+          "heading": "#### The Military Triumvirate and Cold War Alliance (1948–1973)"
+        },
+        {
+          "line": 278,
+          "heading": "#### The Democratic Uprisings: 1973 and 1992"
+        },
+        {
+          "line": 284,
+          "heading": "#### Thailand’s Diplomatic \"Bamboo Bending\""
+        },
+        {
+          "line": 293,
+          "heading": "### 5. Indochina: Revolution, Division, and the Cambodian Catastrophe"
+        },
+        {
+          "line": 295,
+          "heading": "#### Vietnam: Partition, Reunification, and Doi Moi"
+        },
+        {
+          "line": 301,
+          "heading": "#### Cambodia: Genocide, Vietnamese Occupation, and UNTAC"
+        },
+        {
+          "line": 309,
+          "heading": "## C. Key Concepts and Terms"
+        },
+        {
+          "line": 320,
+          "heading": "## D. Chronology of Critical Historical Turning Points"
+        },
+        {
+          "line": 349,
+          "heading": "## E. Cause-and-Effect Chains: Domestic Politics Shaping Regional Action"
+        },
+        {
+          "line": 358,
+          "heading": "## F. Cross-Module Connections"
+        },
+        {
+          "line": 367,
+          "heading": "## G. Worked Comparative Example: Managing Communist Threats"
+        },
+        {
+          "line": 378,
+          "heading": "## H. Key Exam Takeaways and Traps"
+        },
+        {
+          "line": 391,
+          "heading": "## I. Source Audit and References"
+        },
+        {
+          "line": 405,
+          "heading": "# 03 — The making of ASEAN: from cooperation to Community"
+        },
+        {
+          "line": 409,
+          "heading": "## A. Introduction: the problem ASEAN was built to address"
+        },
+        {
+          "line": 415,
+          "heading": "### Geographic foundations from the lecture maps"
+        },
+        {
+          "line": 421,
+          "heading": "## B. Comprehensive lesson"
+        },
+        {
+          "line": 423,
+          "heading": "### 1. Antecedents: why regional cooperation was difficult"
+        },
+        {
+          "line": 429,
+          "heading": "### 2. Bangkok, 8 August 1967: an association, not a federation"
+        },
+        {
+          "line": 445,
+          "heading": "### 3. Consolidation: the first summit and the TAC"
+        },
+        {
+          "line": 453,
+          "heading": "### 4. Enlargement: from founding five to the ten-state community of these sources"
+        },
+        {
+          "line": 468,
+          "heading": "### 5. Vision 2020: widening the idea of regional community"
+        },
+        {
+          "line": 479,
+          "heading": "### 6. Bali Concord II: three pillars, one Community"
+        },
+        {
+          "line": 491,
+          "heading": "### 7. The Charter: greater legalization without a regional superstate"
+        },
+        {
+          "line": 499,
+          "heading": "### 8. Vision 2025: consolidation rather than a declaration that integration is finished"
+        },
+        {
+          "line": 505,
+          "heading": "## C. Terms and distinctions"
+        },
+        {
+          "line": 521,
+          "heading": "## D. Dates, people and agreements worth knowing"
+        },
+        {
+          "line": 525,
+          "heading": "## E. Cause-and-effect chains"
+        },
+        {
+          "line": 534,
+          "heading": "## F. Connections to other lessons"
+        },
+        {
+          "line": 538,
+          "heading": "## G. Example and analogy"
+        },
+        {
+          "line": 544,
+          "heading": "## H. Takeaways and misconceptions"
+        },
+        {
+          "line": 557,
+          "heading": "## I. References and coverage"
+        },
+        {
+          "line": 564,
+          "heading": "# 04 — ASEAN structures, decision-making and participation"
+        },
+        {
+          "line": 568,
+          "heading": "## A. Introduction: learn functions, not just acronyms"
+        },
+        {
+          "line": 574,
+          "heading": "## B. Comprehensive lesson"
+        },
+        {
+          "line": 576,
+          "heading": "### 1. The Charter joins old principles to newer commitments"
+        },
+        {
+          "line": 582,
+          "heading": "### 2. Political direction and coordination"
+        },
+        {
+          "line": 596,
+          "heading": "### 3. The Secretary-General and Secretariat"
+        },
+        {
+          "line": 608,
+          "heading": "### 4. Linking Jakarta and national capitals"
+        },
+        {
+          "line": 614,
+          "heading": "### 5. Human rights, women and children, migrant workers, and identity"
+        },
+        {
+          "line": 622,
+          "heading": "### 6. Consensus: strengths, limits and qualifications"
+        },
+        {
+          "line": 634,
+          "heading": "### 7. Dispute settlement and accountability"
+        },
+        {
+          "line": 642,
+          "heading": "### 8. The Chair, resources and external relations"
+        },
+        {
+          "line": 650,
+          "heading": "### 9. Participation and the civil-society critique"
+        },
+        {
+          "line": 658,
+          "heading": "## C. Terms and distinctions"
+        },
+        {
+          "line": 671,
+          "heading": "## D. People, bodies and dates"
+        },
+        {
+          "line": 675,
+          "heading": "## E. Cause and effect"
+        },
+        {
+          "line": 679,
+          "heading": "## F. Connections"
+        },
+        {
+          "line": 683,
+          "heading": "## G. Worked example"
+        },
+        {
+          "line": 687,
+          "heading": "## H. Takeaways and exam traps"
+        },
+        {
+          "line": 700,
+          "heading": "## I. References and coverage"
+        },
+        {
+          "line": 707,
+          "heading": "# 05 — The ASEAN Way, security cooperation and centrality"
+        },
+        {
+          "line": 711,
+          "heading": "## A. Introduction: cooperation without commanding power"
+        },
+        {
+          "line": 717,
+          "heading": "## B. Comprehensive lesson"
+        },
+        {
+          "line": 719,
+          "heading": "### 1. Separate principles, procedures and results"
+        },
+        {
+          "line": 732,
+          "heading": "### 2. Goh: the ASEAN Way is more than nonintervention"
+        },
+        {
+          "line": 740,
+          "heading": "### 3. The Cambodian conflict: active diplomacy without an ASEAN military alliance"
+        },
+        {
+          "line": 750,
+          "heading": "### 4. Cambodia and Haiti: what Goh's comparison can and cannot show"
+        },
+        {
+          "line": 765,
+          "heading": "### 5. Almonte: security cooperation must grow from political trust"
+        },
+        {
+          "line": 773,
+          "heading": "### 6. Proposals are not established institutions"
+        },
+        {
+          "line": 781,
+          "heading": "### 7. Practical achievements link the three pillars"
+        },
+        {
+          "line": 787,
+          "heading": "### 8. Acharya: what centrality actually means"
+        },
+        {
+          "line": 795,
+          "heading": "### 9. Centrality of form versus centrality of substance"
+        },
+        {
+          "line": 808,
+          "heading": "### 10. Acharya's four challenges—in their 2017 setting"
+        },
+        {
+          "line": 817,
+          "heading": "## C. Terms and distinctions"
+        },
+        {
+          "line": 833,
+          "heading": "## D. People, events and dates"
+        },
+        {
+          "line": 848,
+          "heading": "## E. Cause and effect"
+        },
+        {
+          "line": 857,
+          "heading": "## F. Connections to other lessons"
+        },
+        {
+          "line": 865,
+          "heading": "## G. Worked examples"
+        },
+        {
+          "line": 867,
+          "heading": "### Hypothetical spillover crisis"
+        },
+        {
+          "line": 871,
+          "heading": "### Evidence-based paragraph"
+        },
+        {
+          "line": 877,
+          "heading": "## H. Takeaways, misconceptions and self-test"
+        },
+        {
+          "line": 902,
+          "heading": "## I. References, corrections and coverage"
+        },
+        {
+          "line": 904,
+          "heading": "### Read in full for this edition"
+        },
+        {
+          "line": 912,
+          "heading": "### Still pending"
+        }
+      ],
+      "A_I_section_words": {
+        "A": 119,
+        "B": 1747,
+        "C": 220,
+        "D": 157,
+        "E": 114,
+        "F": 126,
+        "G": 168,
+        "H": 163,
+        "I": 221
+      }
+    },
+    {
+      "path": "reviewer/PRACTICE_EXAM.md",
+      "bytes": 7355,
+      "words": 1025,
+      "modified": "2026-10-21T23:24:38.211553",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# LCASEAN — Practice examination (working edition)"
+        },
+        {
+          "line": 5,
+          "heading": "## Part I — Multiple choice (1 point each)"
+        },
+        {
+          "line": 97,
+          "heading": "## Part II — Correct the claim (3 points each)"
+        },
+        {
+          "line": 107,
+          "heading": "## Part III — Short answers (5 points each)"
+        },
+        {
+          "line": 116,
+          "heading": "## Part IV — Applied questions (10 points each)"
+        },
+        {
+          "line": 122,
+          "heading": "## Part V — Integrative essay (20 points)"
+        }
+      ],
+      "A_I_section_words": {}
+    },
+    {
+      "path": "reviewer/PROGRESS.md",
+      "bytes": 7908,
+      "words": 1046,
+      "modified": "2026-10-21T23:28:56.531971",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# LCASEAN reviewer progress"
+        },
+        {
+          "line": 3,
+          "heading": "## Task and safeguards"
+        },
+        {
+          "line": 6,
+          "heading": "## Completed: initial inventory and extraction"
+        },
+        {
+          "line": 15,
+          "heading": "## Course signals already verified"
+        },
+        {
+          "line": 21,
+          "heading": "## Execution update"
+        },
+        {
+          "line": 24,
+          "heading": "## Planned sequential batches"
+        },
+        {
+          "line": 34,
+          "heading": "## Completed sequential section 1 — founding, institutions, foundations, and country histories"
+        },
+        {
+          "line": 40,
+          "heading": "## Current focus: sequential batch 2 — ASEAN Way, security scholarship, and political-security blueprint"
+        },
+        {
+          "line": 44,
+          "heading": "## Quiz-ready working deliverables — saved 2026-10-21"
+        },
+        {
+          "line": 61,
+          "heading": "## Remaining final deliverables"
+        },
+        {
+          "line": 65,
+          "heading": "## Resume instructions"
+        }
+      ],
+      "A_I_section_words": {}
+    },
+    {
+      "path": "reviewer/QUICK_REVIEW.md",
+      "bytes": 10634,
+      "words": 1468,
+      "modified": "2026-10-21T23:28:33.729581",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# LCASEAN — Quick review (working edition)"
+        },
+        {
+          "line": 5,
+          "heading": "## 1. The organizing question"
+        },
+        {
+          "line": 17,
+          "heading": "## 2. Dates with meanings"
+        },
+        {
+          "line": 40,
+          "heading": "## 3. Why sovereignty matters"
+        },
+        {
+          "line": 46,
+          "heading": "## 4. Three pillars — know the differences and connections"
+        },
+        {
+          "line": 56,
+          "heading": "## 5. Institutional roles — memorize the function"
+        },
+        {
+          "line": 71,
+          "heading": "## 6. Decision-making and settlement"
+        },
+        {
+          "line": 77,
+          "heading": "## 7. Country-history anchors"
+        },
+        {
+          "line": 92,
+          "heading": "## 8. High-value answer formula"
+        },
+        {
+          "line": 98,
+          "heading": "## 9. Corrections and traps"
+        },
+        {
+          "line": 108,
+          "heading": "## 10. ASEAN Way and security — three readings"
+        },
+        {
+          "line": 124,
+          "heading": "## 11. Coverage warning"
+        }
+      ],
+      "A_I_section_words": {}
+    },
+    {
+      "path": "reviewer/batches/history_audit.md",
+      "bytes": 6670,
+      "words": 887,
+      "modified": "2026-10-21T20:22:28.482327",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# Sequential Batch 1 — Foundations, Country Histories, and Regional Background Audit"
+        },
+        {
+          "line": 5,
+          "heading": "## Sources Audited and Read"
+        },
+        {
+          "line": 17,
+          "heading": "## Outputs Generated from this Batch"
+        }
+      ],
+      "A_I_section_words": {}
+    },
+    {
+      "path": "reviewer/batches/institutions_audit.md",
+      "bytes": 7360,
+      "words": 1066,
+      "modified": "2026-10-21T18:07:52.004774",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# Sequential batch 1 — founding documents, lecture decks and institutions"
+        },
+        {
+          "line": 5,
+          "heading": "## Reading completed"
+        },
+        {
+          "line": 20,
+          "heading": "## Visual findings"
+        },
+        {
+          "line": 43,
+          "heading": "## Corrections and interpretation controls"
+        },
+        {
+          "line": 54,
+          "heading": "## Outputs"
+        }
+      ],
+      "A_I_section_words": {}
+    },
+    {
+      "path": "reviewer/batches/security_audit.md",
+      "bytes": 5416,
+      "words": 786,
+      "modified": "2026-10-21T23:22:17.430118",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# Sequential batch 2 — security reading audit (working)"
+        },
+        {
+          "line": 5,
+          "heading": "## Source identification correction"
+        },
+        {
+          "line": 22,
+          "heading": "## Findings incorporated into module 05"
+        },
+        {
+          "line": 24,
+          "heading": "### S26 — Goh"
+        },
+        {
+          "line": 32,
+          "heading": "### S20 — Almonte"
+        },
+        {
+          "line": 40,
+          "heading": "### S18 — Acharya"
+        },
+        {
+          "line": 48,
+          "heading": "## Processing limits"
+        },
+        {
+          "line": 52,
+          "heading": "## Output and next action"
+        }
+      ],
+      "A_I_section_words": {}
+    },
+    {
+      "path": "reviewer/modules/01_REGIONAL_FOUNDATIONS.md",
+      "bytes": 20406,
+      "words": 2856,
+      "modified": "2026-10-21T18:48:29.543346",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# 01 — Regional foundations: the idea of Southeast Asia and the making of ASEAN"
+        },
+        {
+          "line": 5,
+          "heading": "## A. Introduction: why the region had to be invented"
+        },
+        {
+          "line": 11,
+          "heading": "## B. Comprehensive lesson"
+        },
+        {
+          "line": 13,
+          "heading": "### 1. The idea of the region: World War II to independence"
+        },
+        {
+          "line": 23,
+          "heading": "### 2. Diversity as the defining condition"
+        },
+        {
+          "line": 31,
+          "heading": "### 3. Great powers and the autonomy problem"
+        },
+        {
+          "line": 41,
+          "heading": "### 4. Bangkok, 8 August 1967: ASEAN's founding"
+        },
+        {
+          "line": 49,
+          "heading": "### 5. Consolidation: 1976 first summit, TAC, and Concord I"
+        },
+        {
+          "line": 57,
+          "heading": "### 6. Enlargement: founding five to ten"
+        },
+        {
+          "line": 70,
+          "heading": "### 7. Vision 2020 and the community idea"
+        },
+        {
+          "line": 74,
+          "heading": "## C. Terms and distinctions"
+        },
+        {
+          "line": 83,
+          "heading": "## D. Dates, people, and agreements worth knowing"
+        },
+        {
+          "line": 94,
+          "heading": "## E. Cause-and-effect chains"
+        },
+        {
+          "line": 102,
+          "heading": "## F. Connections to other lessons"
+        },
+        {
+          "line": 106,
+          "heading": "## G. Worked example"
+        },
+        {
+          "line": 110,
+          "heading": "## H. Takeaways and exam traps"
+        },
+        {
+          "line": 123,
+          "heading": "## I. References and coverage"
+        }
+      ],
+      "A_I_section_words": {
+        "A": 152,
+        "B": 1746,
+        "C": 122,
+        "D": 140,
+        "E": 141,
+        "F": 68,
+        "G": 70,
+        "H": 126,
+        "I": 149
+      }
+    },
+    {
+      "path": "reviewer/modules/02_COUNTRY_HISTORIES.md",
+      "bytes": 43222,
+      "words": 6036,
+      "modified": "2026-10-21T20:20:24.582369",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# 02 — Country Histories: Post-War Trajectories, State-Building, and Foreign Policies"
+        },
+        {
+          "line": 7,
+          "heading": "## A. Introduction: Domestic Vulnerability and Foreign Policy"
+        },
+        {
+          "line": 18,
+          "heading": "## B. Comprehensive Country Case Studies"
+        },
+        {
+          "line": 20,
+          "heading": "### 1. The Philippines: From US Dependency to Diversified Regionalism"
+        },
+        {
+          "line": 22,
+          "heading": "#### Constitutional Order and Oligarchic Politics (1946–1972)"
+        },
+        {
+          "line": 27,
+          "heading": "#### The Marcos Era: Martial Law and Authoritarian Centralization (1965–1986)"
+        },
+        {
+          "line": 37,
+          "heading": "#### Democratic Restoration: Aquino and Ramos (1986–1990s)"
+        },
+        {
+          "line": 40,
+          "heading": "#### Philippine Foreign Policy Trajectory"
+        },
+        {
+          "line": 49,
+          "heading": "### 2. Indonesia: From Revolutionary Guided Democracy to Suharto's New Order"
+        },
+        {
+          "line": 51,
+          "heading": "#### Parliamentary Instability and Guided Democracy (1949–1965)"
+        },
+        {
+          "line": 59,
+          "heading": "#### The 1965 Cataclysm and the Rise of the New Order (*Orde Baru*)"
+        },
+        {
+          "line": 62,
+          "heading": "#### Pillars of Suharto’s New Order (1966–1998)"
+        },
+        {
+          "line": 70,
+          "heading": "### 3. Malaysia, Singapore, and Brunei: Federation, Separation, and Consolidation"
+        },
+        {
+          "line": 72,
+          "heading": "#### The Federation of Malaya and the Birth of Malaysia"
+        },
+        {
+          "line": 77,
+          "heading": "#### The Separation of Singapore (August 9, 1965)"
+        },
+        {
+          "line": 80,
+          "heading": "#### Malaysia: The May 13 Riots and the New Economic Policy (NEP)"
+        },
+        {
+          "line": 90,
+          "heading": "#### The Mahathir Era (1981–2003)"
+        },
+        {
+          "line": 97,
+          "heading": "#### Singapore: State Survival, Corporatism, and Developmentalism"
+        },
+        {
+          "line": 106,
+          "heading": "#### Brunei Darussalam: The Shell-Fare Sultanate"
+        },
+        {
+          "line": 111,
+          "heading": "### 4. Thailand: The Bureaucratic Polity, Coup Cycles, and Democratic Awakening"
+        },
+        {
+          "line": 113,
+          "heading": "#### The Military Triumvirate and Cold War Alliance (1948–1973)"
+        },
+        {
+          "line": 122,
+          "heading": "#### The Democratic Uprisings: 1973 and 1992"
+        },
+        {
+          "line": 128,
+          "heading": "#### Thailand’s Diplomatic \"Bamboo Bending\""
+        },
+        {
+          "line": 137,
+          "heading": "### 5. Indochina: Revolution, Division, and the Cambodian Catastrophe"
+        },
+        {
+          "line": 139,
+          "heading": "#### Vietnam: Partition, Reunification, and Doi Moi"
+        },
+        {
+          "line": 145,
+          "heading": "#### Cambodia: Genocide, Vietnamese Occupation, and UNTAC"
+        },
+        {
+          "line": 153,
+          "heading": "## C. Key Concepts and Terms"
+        },
+        {
+          "line": 164,
+          "heading": "## D. Chronology of Critical Historical Turning Points"
+        },
+        {
+          "line": 193,
+          "heading": "## E. Cause-and-Effect Chains: Domestic Politics Shaping Regional Action"
+        },
+        {
+          "line": 202,
+          "heading": "## F. Cross-Module Connections"
+        },
+        {
+          "line": 211,
+          "heading": "## G. Worked Comparative Example: Managing Communist Threats"
+        },
+        {
+          "line": 222,
+          "heading": "## H. Key Exam Takeaways and Traps"
+        },
+        {
+          "line": 235,
+          "heading": "## I. Source Audit and References"
+        }
+      ],
+      "A_I_section_words": {
+        "A": 206,
+        "B": 3942,
+        "C": 219,
+        "D": 563,
+        "E": 219,
+        "F": 141,
+        "G": 193,
+        "H": 295,
+        "I": 105
+      }
+    },
+    {
+      "path": "reviewer/modules/03_MAKING_OF_ASEAN.md",
+      "bytes": 19392,
+      "words": 2655,
+      "modified": "2026-10-21T18:10:18.721516",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# 03 — The making of ASEAN: from cooperation to Community"
+        },
+        {
+          "line": 5,
+          "heading": "## A. Introduction: the problem ASEAN was built to address"
+        },
+        {
+          "line": 11,
+          "heading": "### Geographic foundations from the lecture maps"
+        },
+        {
+          "line": 17,
+          "heading": "## B. Comprehensive lesson"
+        },
+        {
+          "line": 19,
+          "heading": "### 1. Antecedents: why regional cooperation was difficult"
+        },
+        {
+          "line": 25,
+          "heading": "### 2. Bangkok, 8 August 1967: an association, not a federation"
+        },
+        {
+          "line": 41,
+          "heading": "### 3. Consolidation: the first summit and the TAC"
+        },
+        {
+          "line": 49,
+          "heading": "### 4. Enlargement: from founding five to the ten-state community of these sources"
+        },
+        {
+          "line": 64,
+          "heading": "### 5. Vision 2020: widening the idea of regional community"
+        },
+        {
+          "line": 75,
+          "heading": "### 6. Bali Concord II: three pillars, one Community"
+        },
+        {
+          "line": 87,
+          "heading": "### 7. The Charter: greater legalization without a regional superstate"
+        },
+        {
+          "line": 95,
+          "heading": "### 8. Vision 2025: consolidation rather than a declaration that integration is finished"
+        },
+        {
+          "line": 101,
+          "heading": "## C. Terms and distinctions"
+        },
+        {
+          "line": 117,
+          "heading": "## D. Dates, people and agreements worth knowing"
+        },
+        {
+          "line": 121,
+          "heading": "## E. Cause-and-effect chains"
+        },
+        {
+          "line": 130,
+          "heading": "## F. Connections to other lessons"
+        },
+        {
+          "line": 134,
+          "heading": "## G. Example and analogy"
+        },
+        {
+          "line": 140,
+          "heading": "## H. Takeaways and misconceptions"
+        },
+        {
+          "line": 153,
+          "heading": "## I. References and coverage"
+        }
+      ],
+      "A_I_section_words": {
+        "A": 321,
+        "B": 1499,
+        "C": 212,
+        "D": 63,
+        "E": 117,
+        "F": 60,
+        "G": 83,
+        "H": 110,
+        "I": 66
+      }
+    },
+    {
+      "path": "reviewer/modules/04_STRUCTURES_AND_MECHANISMS.md",
+      "bytes": 18049,
+      "words": 2420,
+      "modified": "2026-10-21T18:12:25.367019",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# 04 — ASEAN structures, decision-making and participation"
+        },
+        {
+          "line": 5,
+          "heading": "## A. Introduction: learn functions, not just acronyms"
+        },
+        {
+          "line": 11,
+          "heading": "## B. Comprehensive lesson"
+        },
+        {
+          "line": 13,
+          "heading": "### 1. The Charter joins old principles to newer commitments"
+        },
+        {
+          "line": 19,
+          "heading": "### 2. Political direction and coordination"
+        },
+        {
+          "line": 33,
+          "heading": "### 3. The Secretary-General and Secretariat"
+        },
+        {
+          "line": 45,
+          "heading": "### 4. Linking Jakarta and national capitals"
+        },
+        {
+          "line": 51,
+          "heading": "### 5. Human rights, women and children, migrant workers, and identity"
+        },
+        {
+          "line": 59,
+          "heading": "### 6. Consensus: strengths, limits and qualifications"
+        },
+        {
+          "line": 71,
+          "heading": "### 7. Dispute settlement and accountability"
+        },
+        {
+          "line": 79,
+          "heading": "### 8. The Chair, resources and external relations"
+        },
+        {
+          "line": 87,
+          "heading": "### 9. Participation and the civil-society critique"
+        },
+        {
+          "line": 95,
+          "heading": "## C. Terms and distinctions"
+        },
+        {
+          "line": 108,
+          "heading": "## D. People, bodies and dates"
+        },
+        {
+          "line": 112,
+          "heading": "## E. Cause and effect"
+        },
+        {
+          "line": 116,
+          "heading": "## F. Connections"
+        },
+        {
+          "line": 120,
+          "heading": "## G. Worked example"
+        },
+        {
+          "line": 124,
+          "heading": "## H. Takeaways and exam traps"
+        },
+        {
+          "line": 137,
+          "heading": "## I. References and coverage"
+        }
+      ],
+      "A_I_section_words": {
+        "A": 82,
+        "B": 1654,
+        "C": 148,
+        "D": 68,
+        "E": 68,
+        "F": 44,
+        "G": 72,
+        "H": 122,
+        "I": 66
+      }
+    },
+    {
+      "path": "reviewer/modules/05_ASEAN_WAY_AND_SECURITY.md",
+      "bytes": 23242,
+      "words": 3179,
+      "modified": "2026-10-21T23:21:29.589291",
+      "headings": [
+        {
+          "line": 1,
+          "heading": "# 05 — The ASEAN Way, security cooperation and centrality"
+        },
+        {
+          "line": 5,
+          "heading": "## A. Introduction: cooperation without commanding power"
+        },
+        {
+          "line": 11,
+          "heading": "## B. Comprehensive lesson"
+        },
+        {
+          "line": 13,
+          "heading": "### 1. Separate principles, procedures and results"
+        },
+        {
+          "line": 26,
+          "heading": "### 2. Goh: the ASEAN Way is more than nonintervention"
+        },
+        {
+          "line": 34,
+          "heading": "### 3. The Cambodian conflict: active diplomacy without an ASEAN military alliance"
+        },
+        {
+          "line": 44,
+          "heading": "### 4. Cambodia and Haiti: what Goh's comparison can and cannot show"
+        },
+        {
+          "line": 59,
+          "heading": "### 5. Almonte: security cooperation must grow from political trust"
+        },
+        {
+          "line": 67,
+          "heading": "### 6. Proposals are not established institutions"
+        },
+        {
+          "line": 75,
+          "heading": "### 7. Practical achievements link the three pillars"
+        },
+        {
+          "line": 81,
+          "heading": "### 8. Acharya: what centrality actually means"
+        },
+        {
+          "line": 89,
+          "heading": "### 9. Centrality of form versus centrality of substance"
+        },
+        {
+          "line": 102,
+          "heading": "### 10. Acharya's four challenges—in their 2017 setting"
+        },
+        {
+          "line": 111,
+          "heading": "## C. Terms and distinctions"
+        },
+        {
+          "line": 127,
+          "heading": "## D. People, events and dates"
+        },
+        {
+          "line": 142,
+          "heading": "## E. Cause and effect"
+        },
+        {
+          "line": 151,
+          "heading": "## F. Connections to other lessons"
+        },
+        {
+          "line": 159,
+          "heading": "## G. Worked examples"
+        },
+        {
+          "line": 161,
+          "heading": "### Hypothetical spillover crisis"
+        },
+        {
+          "line": 165,
+          "heading": "### Evidence-based paragraph"
+        },
+        {
+          "line": 171,
+          "heading": "## H. Takeaways, misconceptions and self-test"
+        },
+        {
+          "line": 196,
+          "heading": "## I. References, corrections and coverage"
+        },
+        {
+          "line": 198,
+          "heading": "### Read in full for this edition"
+        },
+        {
+          "line": 206,
+          "heading": "### Still pending"
+        }
+      ],
+      "A_I_section_words": {
+        "A": 119,
+        "B": 1747,
+        "C": 220,
+        "D": 157,
+        "E": 114,
+        "F": 126,
+        "G": 168,
+        "H": 163,
+        "I": 221
+      }
+    }
+  ],
+  "requested_names": {
+    "COURSE_OVERVIEW.md": [],
+    "MASTER_REVIEWER.md": [
+      "reviewer/MASTER_REVIEWER.md"
+    ],
+    "CONNECTIONS_AND_COMPARISONS.md": [],
+    "HISTORICAL_TIMELINE.md": [],
+    "QUICK_REVIEW.md": [
+      "reviewer/QUICK_REVIEW.md"
+    ],
+    "PRACTICE_EXAM.md": [
+      "reviewer/PRACTICE_EXAM.md"
+    ],
+    "ANSWER_KEY.md": [
+      "reviewer/ANSWER_KEY.md"
+    ],
+    "COVERAGE_REPORT.md": [
+      "reviewer/COVERAGE_REPORT.md"
+    ],
+    "PROGRESS.md": [
+      "reviewer/PROGRESS.md"
+    ]
+  },
+  "resources": [
+    {
+      "id": "S01",
+      "filename": "2019 Bangkok ASEAN Summit Official Statement.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 14,
+      "page_files": 14,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S01",
+        "filename": "2019 Bangkok ASEAN Summit Official Statement.pdf",
+        "type": ".pdf",
+        "sha256": "3e6866cf318e57818a36c24ad5bdaeda0d4fe4db3664cb84da8051a379df7d45",
+        "output": "extracted/S01",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 14,
+        "extracted_pages": 14,
+        "low_text_pages": [],
+        "characters": 45425,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S02",
+      "filename": "ADB Costs and Benefits of a Common Currency for ASEAN.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 24,
+      "page_files": 24,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S02",
+        "filename": "ADB Costs and Benefits of a Common Currency for ASEAN.pdf",
+        "type": ".pdf",
+        "sha256": "c53485ea86c899d42283212d31986de0ac781786b86943b518638c91f59097a9",
+        "output": "extracted/S02",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 24,
+        "extracted_pages": 24,
+        "low_text_pages": [],
+        "characters": 83859,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S03",
+      "filename": "ASEAN Bali Concord II.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 14,
+      "page_files": 14,
+      "empty_page_files": [
+        14
+      ],
+      "errors": "",
+      "inventory": {
+        "id": "S03",
+        "filename": "ASEAN Bali Concord II.pdf",
+        "type": ".pdf",
+        "sha256": "832a9bfcada5a4fdcfb37f90e0a225c034199bf311b7657dc89803746b5ebf8f",
+        "output": "extracted/S03",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 14,
+        "extracted_pages": 14,
+        "low_text_pages": [
+          14
+        ],
+        "characters": 34094,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S04",
+      "filename": "ASEAN Bangkok Declaration 1967.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 5,
+      "page_files": 5,
+      "empty_page_files": [],
+      "errors": "Syntax Warning (2965): Badly formatted number\nSyntax Warning (3021): Badly formatted number\nSyntax Warning (3080): Badly formatted number\nSyntax Warning (3132): Badly formatted number\nSyntax Warning (3167): Badly formatted number\nSyntax Warning (3193): Badly formatted number\nSyntax Warning (3979): Badly formatted number\nSyntax Warning (4149): Badly formatted number\nSyntax Warning (4202): Badly formatted number\nSyntax Warning (4248): Badly formatted number\nSyntax Warning (4287): Badly formatted number\nSyntax Warning (5102): Badly formatted number\nSyntax Warning (5173): Badly formatted number\nSyntax Warning (5211): Badly formatted number\nSyntax Warning (5285): Badly formatted number\nSyntax Warning (5332): Badly formatted number\nSyntax Warning (5364): Badly formatted number\nSyntax Warning (5668): Badly formatted number\nSyntax Warning (5735): Badly formatted number\nSyntax Warning (5757): Badly formatted number\nSyntax Warning (5836): Badly formatted number\nSyntax Warning (5857): Badly formatted number\nSyntax Warning (5878): Badly formatted number\nSyntax Warning (5943): Badly formatted number\nSyntax Warning (5964): Badly formatted number\nSyntax Warning (6014): Badly formatted number\nSyntax Warning (6191): Badly formatted number\nSyntax Warning (6631): Badly formatted number\nSyntax Warning (6705): Badly formatted number\nSyntax Warning (6885): Badly formatted number\nSyntax Warning (6928): Badly formatted number\nSyntax Warning (6947): Badly formatted number\nSyntax Warning (7526): Badly formatted number\nSyntax Warning (7604): Badly formatted number\nSyntax Warning (7645): Badly formatted number\nSyntax Warning (7689): Badly formatted number\nSyntax Warning (7748): Badly formatted number\nSyntax Warning (7776): Badly formatted number\nSyntax Warning (7815): Badly formatted number\nSyntax Warning (7835): Badly formatted number\nSyntax Warning (7856): Badly formatted number\nSyntax Warning (7882): Badly formatted number\nSyntax Warning (7914): Badly formatted number\nSyntax Warning (7961): Badly formatted number\nSyntax Warning (54488): Badly formatted number\nSyntax Warning (54517): Badly formatted number\nSyntax Warning (54545): Badly formatted number\nSyntax Warning (54588): Badly formatted number\nSyntax Warning (55121): Badly formatted number\nSyntax Warning (55169): Badly formatted number\nSyntax Warning (55217): Badly formatted number\nSyntax Warning (55280): Badly formatted number\nSyntax Warning (55351): Badly formatted number\nSyntax Warning (55520): Badly formatted number\nSyntax Warning (55548): Badly formatted number\nSyntax Warning (55581): Badly formatted number\nSyntax Warning (56773): Badly formatted number\nSyntax Warning (56814): Badly formatted number\nSyntax Warning (94218): Badly formatted number\nSyntax Warning (94282): Badly formatted number\nSyntax Warning (95280): Badly formatted number\nSyntax Warning (95316): Badly formatted number\nSyntax Warning (95348): Badly formatted number\nSyntax Warning (95430): Badly formatted number\nSyntax Warning (95463): Badly formatted number\nSyntax Warning (95511): Badly formatted number\nSyntax Warning (95559): Badly formatted number\nSyntax Warning (95593): Badly formatted number\nSyntax Warning (95615): Badly formatted number\nSyntax Warning (95653): Badly formatted number\nSyntax Warning (95706): Badly formatted number\nSyntax Warning (95779): Badly formatted number\nSyntax Warning (95802): Badly formatted number\nSyntax Warning (95833): Badly formatted number\nSyntax Warning (95865): Badly formatted number\nSyntax Warning (95911): Badly formatted number\nSyntax Warning (95948): Badly formatted number\nSyntax Warning (95996): Badly formatted number\nSyntax Warning (96037): Badly formatted number\nSyntax Warning (96060): Badly formatted number\nSyntax Warning (96300): Badly formatted number\nSyntax Warning (96334): Badly formatted number\nSyntax Warning (96356): Badly formatted number\nSyntax Warning (96382): Badly formatted number\nSyntax Warning (96414): Badly formatted number\nSyntax Warning (96443): Badly formatted number\nSyntax Warning (96481): Badly formatted number\nSyntax Warning (96514): Badly formatted number\nSyntax Warning (134601): Badly formatted number\nSyntax Warning (134633): Badly formatted number\nSyntax Warning (134677): Badly formatted number\nSyntax Warning (134736): Badly formatted number\nSyntax Warning (134771): Badly formatted number\nSyntax Warning (134807): Badly formatted number\nSyntax Warning (134840): Badly formatted number\nSyntax Warning (134872): Badly formatted number\nSyntax Warning (135007): Badly formatted number\nSyntax Warning (135043): Badly formatted number\nSyntax Warning (135206): Badly formatted number\nSyntax Warning (135380): Badly formatted number\nSyntax Warning (135583): Badly formatted number\nSyntax Warning (160048): Badly formatted number\nSyntax Warning (160084): Badly formatted number\nSyntax Warning (160407): Badly formatted number\nSyntax Warning (160988): Badly formatted number\n",
+      "inventory": {
+        "id": "S04",
+        "filename": "ASEAN Bangkok Declaration 1967.pdf",
+        "type": ".pdf",
+        "sha256": "7f8a86acc34d3b430e330042bcaf7c19130ecb6c356db9c62926da7c6905a434",
+        "output": "extracted/S04",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 5,
+        "extracted_pages": 5,
+        "low_text_pages": [],
+        "characters": 7052,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": "Syntax Warning (2965): Badly formatted number\nSyntax Warning (3021): Badly formatted number\nSyntax Warning (3080): Badly formatted number\nSyntax Warning (3132): Badly formatted number\nSyntax Warning (3167): Badly formatted number\nSyntax Warning (3193): Badly formatted number\nSyntax Warning (3979): Badly formatted number\nSyntax Warning (4149): Badly formatted number\nSyntax Warning (4202): Badly formatted number\nSyntax Warning (4248): Badly formatted number\nSyntax Warning (4287): Badly formatted number\nSyntax Warning (5102): Badly formatted number\nSyntax Warning (5173): Badly formatted number\nSyntax Warning (5211): Badly formatted number\nSyntax Warning (5285): Badly formatted number\nSyntax Warning (5332): Badly formatted number\nSyntax Warning (5364): Badly formatted number\nSyntax Warning (5668): Badly formatted number\nSyntax Warning (5735): Badly formatted number\nSyntax Warning (5757): Badly formatted number\nSyntax Warning (5836): Badly formatted number\nSyntax Warning (5857): Badly formatted number\nSyntax Warning (5878): Badly formatted number\nSyntax Warning (5943): Badly formatted number\nSyntax Warning (5964): Badly formatted number\nSyntax Warning (6014): Badly formatted number\nSyntax Warning (6191): Badly formatted number\nSyntax Warning (6631): Badly formatted number\nSyntax Warning (6705): Badly formatted number\nSyntax Warning (6885): Badly formatted number\nSyntax Warning (6928): Badly formatted number\nSyntax Warning (6947): Badly formatted number\nSyntax Warning (7526): Badly formatted number\nSyntax Warning (7604): Badly formatted number\nSyntax Warning (7645): Badly formatted number\nSyntax Warning (7689): Badly formatted number\nSyntax Warning (7748): Badly formatted number\nSyntax Warning (7776): Badly formatted number\nSyntax Warning (7815): Badly formatted number\nSyntax Warning (7835): Badly formatted number\nSyntax Warning (7856): Badly formatted number\nSyntax Warning (7882): Badly formatted number\nSyntax Warning (7914): Badly formatted number\nSyntax Warning (7961): Badly formatted number\nSyntax Warning (54488): Badly formatted number\nSyntax Warning (54517): Badly formatted number\nSyntax Warning (54545): Badly formatted number\nSyntax Warning (54588): Badly formatted number\nSyntax Warning (55121): Badly formatted number\nSyntax Warning (55169): Badly formatted number\nSyntax Warning (55217): Badly formatted number\nSyntax Warning (55280): Badly formatted number\nSyntax Warning (55351): Badly formatted number\nSyntax Warning (55520): Badly formatted number\nSyntax Warning (55548): Badly formatted number\nSyntax Warning (55581): Badly formatted number\nSyntax Warning (56773): Badly formatted number\nSyntax Warning (56814): Badly formatted number\nSyntax Warning (94218): Badly formatted number\nSyntax Warning (94282): Badly formatted number\nSyntax Warning (95280): Badly formatted number\nSyntax Warning (95316): Badly formatted number\nSyntax Warning (95348): Badly formatted number\nSyntax Warning (95430): Badly formatted number\nSyntax Warning (95463): Badly formatted number\nSyntax Warning (95511): Badly formatted number\nSyntax Warning (95559): Badly formatted number\nSyntax Warning (95593): Badly formatted number\nSyntax Warning (95615): Badly formatted number\nSyntax Warning (95653): Badly formatted number\nSyntax Warning (95706): Badly formatted number\nSyntax Warning (95779): Badly formatted number\nSyntax Warning (95802): Badly formatted number\nSyntax Warning (95833): Badly formatted number\nSyntax Warning (95865): Badly formatted number\nSyntax Warning (95911): Badly formatted number\nSyntax Warning (95948): Badly formatted number\nSyntax Warning (95996): Badly formatted number\nSyntax Warning (96037): Badly formatted number\nSyntax Warning (96060): Badly formatted number\nSyntax Warning (96300): Badly formatted number\nSyntax Warning (96334): Badly formatted number\nSyntax Warning (96356): Badly formatted number\nSyntax Warning (96382): Badly formatted number\nSyntax Warning (96414): Badly formatted number\nSyntax Warning (96443): Badly formatted number\nSyntax Warning (96481): Badly formatted number\nSyntax Warning (96514): Badly formatted number\nSyntax Warning (134601): Badly formatted number\nSyntax Warning (134633): Badly formatted number\nSyntax Warning (134677): Badly formatted number\nSyntax Warning (134736): Badly formatted number\nSyntax Warning (134771): Badly formatted number\nSyntax Warning (134807): Badly formatted number\nSyntax Warning (134840): Badly formatted number\nSyntax Warning (134872): Badly formatted number\nSyntax Warning (135007): Badly formatted number\nSyntax Warning (135043): Badly formatted number\nSyntax Warning (135206): Badly formatted number\nSyntax Warning (135380): Badly formatted number\nSyntax Warning (135583): Badly formatted number\nSyntax Warning (160048): Badly formatted number\nSyntax Warning (160084): Badly formatted number\nSyntax Warning (160407): Badly formatted number\nSyntax Warning (160988): Badly formatted number\n"
+      }
+    },
+    {
+      "id": "S05",
+      "filename": "ASEAN Charter.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 59,
+      "page_files": 59,
+      "empty_page_files": [
+        2,
+        58
+      ],
+      "errors": "",
+      "inventory": {
+        "id": "S05",
+        "filename": "ASEAN Charter.pdf",
+        "type": ".pdf",
+        "sha256": "e2f78d1c97925d886a87aead049dbfc656392ec22b3c80f4e1c1b02a17a63798",
+        "output": "extracted/S05",
+        "title": "FA#ASN-Charter_content_REV.p65",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 59,
+        "extracted_pages": 59,
+        "low_text_pages": [
+          1,
+          2,
+          3,
+          58,
+          59
+        ],
+        "characters": 76910,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S06",
+      "filename": "ASEAN Community Vision 2025.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 8,
+      "page_files": 8,
+      "empty_page_files": [
+        2,
+        8
+      ],
+      "errors": "",
+      "inventory": {
+        "id": "S06",
+        "filename": "ASEAN Community Vision 2025.pdf",
+        "type": ".pdf",
+        "sha256": "ebf360f5a69312d09dd56ac9ab9774b5b69ff670391b642479d8e24b93288f64",
+        "output": "extracted/S06",
+        "title": "ASEAN 2025 Forging Ahead Together -FINAL CORRECT.pdf",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 8,
+        "extracted_pages": 8,
+        "low_text_pages": [
+          1,
+          2,
+          8
+        ],
+        "characters": 11957,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S07",
+      "filename": "ASEAN Economic Community Blueprint 2025.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 48,
+      "page_files": 48,
+      "empty_page_files": [
+        2
+      ],
+      "errors": "",
+      "inventory": {
+        "id": "S07",
+        "filename": "ASEAN Economic Community Blueprint 2025.pdf",
+        "type": ".pdf",
+        "sha256": "8dcec270fb777de914c768ff90f19035bb7c39e45e48edcdb69b82467ccb4e8b",
+        "output": "extracted/S07",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 48,
+        "extracted_pages": 48,
+        "low_text_pages": [
+          1,
+          2,
+          3,
+          48
+        ],
+        "characters": 114421,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S08",
+      "filename": "ASEAN Guidelines for Preventing the Entry of Fish and Fishery Products.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 35,
+      "page_files": 35,
+      "empty_page_files": [
+        2,
+        3,
+        12
+      ],
+      "errors": "",
+      "inventory": {
+        "id": "S08",
+        "filename": "ASEAN Guidelines for Preventing the Entry of Fish and Fishery Products.pdf",
+        "type": ".pdf",
+        "sha256": "97f8f09c69e1d808090b1be479b9d690464943ec76b0032152a4bec732390b70",
+        "output": "extracted/S08",
+        "title": "Microsoft Word - Annex_A1_ASEAN Guidelines IUU for Final Endorsement by 23ASWGFi_23May15_JTF logo.doc",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 35,
+        "extracted_pages": 35,
+        "low_text_pages": [
+          2,
+          3,
+          12
+        ],
+        "characters": 65244,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S09",
+      "filename": "ASEAN Map.png",
+      "type": ".png",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": null,
+      "page_files": 0,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S09",
+        "filename": "ASEAN Map.png",
+        "type": ".png",
+        "sha256": "bf5e019e16eb8010edfde8b68b4cb970b8e8f4eae56074be573cee91295fd0a9",
+        "output": "extracted/S09",
+        "title": "ASEAN Map",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "status": "Awaiting visual review"
+      }
+    },
+    {
+      "id": "S10",
+      "filename": "ASEAN Organizational Structure.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 1,
+      "page_files": 1,
+      "empty_page_files": [
+        1
+      ],
+      "errors": "",
+      "inventory": {
+        "id": "S10",
+        "filename": "ASEAN Organizational Structure.pdf",
+        "type": ".pdf",
+        "sha256": "a4fb1c48b943e519521d8b6439836a3870adc3879eaec7f70e47e9116de69d45",
+        "output": "extracted/S10",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 1,
+        "extracted_pages": 1,
+        "low_text_pages": [
+          1
+        ],
+        "characters": 1,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S11",
+      "filename": "ASEAN Overview 2012.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 25,
+      "page_files": 25,
+      "empty_page_files": [
+        12,
+        20
+      ],
+      "errors": "",
+      "inventory": {
+        "id": "S11",
+        "filename": "ASEAN Overview 2012.pdf",
+        "type": ".pdf",
+        "sha256": "8c7090fff8c05e2587a2bf702034b2a30a23bdd1c6eeb8d7d3771a9ed56143d7",
+        "output": "extracted/S11",
+        "title": "ASEAN OVERVIEW_160210 [Compatibility Mode]",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 25,
+        "extracted_pages": 25,
+        "low_text_pages": [
+          12,
+          20,
+          25
+        ],
+        "characters": 12855,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S12",
+      "filename": "ASEAN Political Security Community Blueprint 2025.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 48,
+      "page_files": 48,
+      "empty_page_files": [
+        2
+      ],
+      "errors": "",
+      "inventory": {
+        "id": "S12",
+        "filename": "ASEAN Political Security Community Blueprint 2025.pdf",
+        "type": ".pdf",
+        "sha256": "847de86a56ade983011119dd994b5edc689113d06ab1896c7482f8351458e088",
+        "output": "extracted/S12",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 48,
+        "extracted_pages": 48,
+        "low_text_pages": [
+          1,
+          2,
+          3,
+          6,
+          46,
+          47
+        ],
+        "characters": 124098,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S13",
+      "filename": "ASEAN Reader Section 1.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 22,
+      "page_files": 22,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S13",
+        "filename": "ASEAN Reader Section 1.pdf",
+        "type": ".pdf",
+        "sha256": "f8ca41d7f838e19438d80f657a249aaa3884cc2530bd67f25bf292f5e6d3186e",
+        "output": "extracted/S13",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 22,
+        "extracted_pages": 22,
+        "low_text_pages": [
+          1,
+          2,
+          4
+        ],
+        "characters": 88380,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S14",
+      "filename": "ASEAN Reader Section 6.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 119,
+      "page_files": 119,
+      "empty_page_files": [
+        26
+      ],
+      "errors": "",
+      "inventory": {
+        "id": "S14",
+        "filename": "ASEAN Reader Section 6.pdf",
+        "type": ".pdf",
+        "sha256": "edeef3fd8289fcbebbc2ecf863c04802241e6a9234d8b4017fb47d86442e86fe",
+        "output": "extracted/S14",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 119,
+        "extracted_pages": 119,
+        "low_text_pages": [
+          1,
+          2,
+          15,
+          16,
+          26,
+          27,
+          28,
+          83,
+          84
+        ],
+        "characters": 497901,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S15",
+      "filename": "ASEAN Socio-Cultural Community Blueprint.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 34,
+      "page_files": 34,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S15",
+        "filename": "ASEAN Socio-Cultural Community Blueprint.pdf",
+        "type": ".pdf",
+        "sha256": "a5fcf8819131f6a3fa10b94df1c43f4eb1752cbd0ae5301692832f9536df3a24",
+        "output": "extracted/S15",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 34,
+        "extracted_pages": 34,
+        "low_text_pages": [
+          1,
+          2,
+          33,
+          34
+        ],
+        "characters": 63741,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S16",
+      "filename": "ASEAN Vision 2020.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 4,
+      "page_files": 4,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S16",
+        "filename": "ASEAN Vision 2020.pdf",
+        "type": ".pdf",
+        "sha256": "5b64c239f90fbbaed585db6a5a3fe6a986749e03ddf8ac0d3b83175eab614935",
+        "output": "extracted/S16",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 4,
+        "extracted_pages": 4,
+        "low_text_pages": [],
+        "characters": 11870,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S17",
+      "filename": "Acharya Constructing a Security Community in Southeast Asia 2009.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 347,
+      "page_files": 347,
+      "empty_page_files": [
+        1,
+        11,
+        337
+      ],
+      "errors": "",
+      "inventory": {
+        "id": "S17",
+        "filename": "Acharya Constructing a Security Community in Southeast Asia 2009.pdf",
+        "type": ".pdf",
+        "sha256": "6b07f452de91f9527cd50f00eada6aca46040dca47ffb2e9d2784520e0b95ac8",
+        "output": "extracted/S17",
+        "title": "Constructing a Security Community in Southeast Asia",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 347,
+        "extracted_pages": 347,
+        "low_text_pages": [
+          1,
+          11,
+          25,
+          337
+        ],
+        "characters": 1069048,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S18",
+      "filename": "Acharya The Myth of Asean Centrality.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 8,
+      "page_files": 8,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S18",
+        "filename": "Acharya The Myth of Asean Centrality.pdf",
+        "type": ".pdf",
+        "sha256": "4ae7a748641bb85a2828b85f85aeb272ce8b5b16201b77ad9a18e63dd2d6022c",
+        "output": "extracted/S18",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 8,
+        "extracted_pages": 8,
+        "low_text_pages": [],
+        "characters": 23545,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S19",
+      "filename": "Agarwal et al ASEAN Dollar A common Currency Establishment for Stronger Economic Growth of ASEAN Region.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 41,
+      "page_files": 41,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S19",
+        "filename": "Agarwal et al ASEAN Dollar A common Currency Establishment for Stronger Economic Growth of ASEAN Region.pdf",
+        "type": ".pdf",
+        "sha256": "e72a30a02dcdc211d73ea2206fe5bf9798efb764dcc5f9c96e29e23b2e72a46f",
+        "output": "extracted/S19",
+        "title": "Microsoft Word - ASEAN Dollar Paper.doc",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 41,
+        "extracted_pages": 41,
+        "low_text_pages": [],
+        "characters": 89958,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S20",
+      "filename": "Almonte Achieving an ASEAN Security Community.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 4,
+      "page_files": 4,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S20",
+        "filename": "Almonte Achieving an ASEAN Security Community.pdf",
+        "type": ".pdf",
+        "sha256": "649c5a76b41121978c723a5d3a4668f1ec888a4900ebffd291e433d2c913ccbb",
+        "output": "extracted/S20",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 4,
+        "extracted_pages": 4,
+        "low_text_pages": [],
+        "characters": 19100,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S21",
+      "filename": "Alterities in Asia.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 240,
+      "page_files": 240,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S21",
+        "filename": "Alterities in Asia.pdf",
+        "type": ".pdf",
+        "sha256": "c87be5fbd5d60b3cade90cd977036efa3839a1ad2a35643eebbe7e14cf7eb164",
+        "output": "extracted/S21",
+        "title": "Alterities in Asia 94513_1st.indd",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 240,
+        "extracted_pages": 240,
+        "low_text_pages": [
+          4,
+          14,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          235,
+          236,
+          237,
+          238,
+          239,
+          240
+        ],
+        "characters": 914956,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S22",
+      "filename": "Amador ASEAN Socio-Cultural Community.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 5,
+      "page_files": 5,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S22",
+        "filename": "Amador ASEAN Socio-Cultural Community.pdf",
+        "type": ".pdf",
+        "sha256": "e4d779bb2468b0fc52cce1964459ac1bb9672ba8eaa873f585259937347ff7c7",
+        "output": "extracted/S22",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 5,
+        "extracted_pages": 5,
+        "low_text_pages": [],
+        "characters": 24186,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S23",
+      "filename": "Bayoumi and Mauro The Suitability of ASEAN for a Regional Currency Arrangement.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 24,
+      "page_files": 24,
+      "empty_page_files": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "errors": "",
+      "inventory": {
+        "id": "S23",
+        "filename": "Bayoumi and Mauro The Suitability of ASEAN for a Regional Currency Arrangement.pdf",
+        "type": ".pdf",
+        "sha256": "24f496ee55929ab6edfc25b267a783e251081b9c1b59de2e6e395479050b81dc",
+        "output": "extracted/S23",
+        "title": "The Suitability of ASEAN for a Regional Currency Arrangement - WP/99/162",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 24,
+        "extracted_pages": 24,
+        "low_text_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "characters": 24,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S24",
+      "filename": "Bonikowska et al ASEAN is Building a Common Market.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 14,
+      "page_files": 14,
+      "empty_page_files": [],
+      "errors": "Syntax Error: Expected the optional content group list, but wasn't able to find it, or it isn't an Array\n",
+      "inventory": {
+        "id": "S24",
+        "filename": "Bonikowska et al ASEAN is Building a Common Market.pdf",
+        "type": ".pdf",
+        "sha256": "fdc3263e80308177369af1556267a1dcd0195c4de7447e3ffe67f6c08bc30660",
+        "output": "extracted/S24",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 14,
+        "extracted_pages": 14,
+        "low_text_pages": [],
+        "characters": 41822,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": "Syntax Error: Expected the optional content group list, but wasn't able to find it, or it isn't an Array\n"
+      }
+    },
+    {
+      "id": "S25",
+      "filename": "Caballero-Anthony Turning Points Beyond the Comfort Zone.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 5,
+      "page_files": 5,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S25",
+        "filename": "Caballero-Anthony Turning Points Beyond the Comfort Zone.pdf",
+        "type": ".pdf",
+        "sha256": "030070e9d551b74b1578dd619b666e4f9f5a63bf9ab39ea2489ebb99e737ad47",
+        "output": "extracted/S25",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 5,
+        "extracted_pages": 5,
+        "low_text_pages": [],
+        "characters": 20838,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S26",
+      "filename": "Goh The ‘ASEAN Way’ Non-Intervention and ASEAN’s Role in Conflict Management.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 6,
+      "page_files": 6,
+      "empty_page_files": [],
+      "errors": "Syntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\n",
+      "inventory": {
+        "id": "S26",
+        "filename": "Goh The ‘ASEAN Way’ Non-Intervention and ASEAN’s Role in Conflict Management.pdf",
+        "type": ".pdf",
+        "sha256": "b65209dd40c1b35c14467a947e113e516c6440db9b49563d30362b0c218eec64",
+        "output": "extracted/S26",
+        "title": "Untitled-1",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 6,
+        "extracted_pages": 6,
+        "low_text_pages": [],
+        "characters": 37031,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": "Syntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\nSyntax Warning: not an ICC profile, invalid signature\nSyntax Warning: read ICCBased color space profile error\n"
+      }
+    },
+    {
+      "id": "S27",
+      "filename": "Guina The ASEAN Socio-Cultural Community.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 4,
+      "page_files": 4,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S27",
+        "filename": "Guina The ASEAN Socio-Cultural Community.pdf",
+        "type": ".pdf",
+        "sha256": "aef44b6a51df3de2fd93239bd07a3603651f8fa5d17f35af725d785e213f554d",
+        "output": "extracted/S27",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 4,
+        "extracted_pages": 4,
+        "low_text_pages": [],
+        "characters": 15928,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S28",
+      "filename": "Howe and ParkThe Evolution of the “ASEAN Way”.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 15,
+      "page_files": 15,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S28",
+        "filename": "Howe and ParkThe Evolution of the “ASEAN Way”.pdf",
+        "type": ".pdf",
+        "sha256": "714bc75ea80d20018902f8da274f53e26cb72cf0103741ade3d9b42952e61168",
+        "output": "extracted/S28",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 15,
+        "extracted_pages": 15,
+        "low_text_pages": [],
+        "characters": 77886,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S29",
+      "filename": "Jones ASEAN, Sovereignty and Intervention in Southeast Asia 2012.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 275,
+      "page_files": 275,
+      "empty_page_files": [
+        1,
+        7
+      ],
+      "errors": "",
+      "inventory": {
+        "id": "S29",
+        "filename": "Jones ASEAN, Sovereignty and Intervention in Southeast Asia 2012.pdf",
+        "type": ".pdf",
+        "sha256": "795ec76cbf6c40acd39f2b300931b4f685f0355f01d9a2c779fe9dc26ed8eafd",
+        "output": "extracted/S29",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 275,
+        "extracted_pages": 275,
+        "low_text_pages": [
+          1,
+          6,
+          7,
+          17,
+          53,
+          107
+        ],
+        "characters": 719360,
+        "status": "Text extracted; low-text pages require visual review",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S30",
+      "filename": "Jones Universalizing Human Rights the ASEAN Way.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 18,
+      "page_files": 18,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S30",
+        "filename": "Jones Universalizing Human Rights the ASEAN Way.pdf",
+        "type": ".pdf",
+        "sha256": "45cfa959a8330187132e9ac22ba23257d3b9865e9d1f7cdfbe8ae3918ff1a17c",
+        "output": "extracted/S30",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 18,
+        "extracted_pages": 18,
+        "low_text_pages": [],
+        "characters": 52948,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S31",
+      "filename": "LCASEAN Module 1 Structures and Mechanisms.pptx",
+      "type": ".pptx",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": null,
+      "page_files": 0,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S31",
+        "filename": "LCASEAN Module 1 Structures and Mechanisms.pptx",
+        "type": ".pptx",
+        "sha256": "7298c76a842f84364785351b8411148f74b66169838cc36a27a2604c4d425b0b",
+        "output": "extracted/S31",
+        "title": "Understanding  / ASEAN: its Systems & Structures",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "slides": 59,
+        "slide_details": [
+          {
+            "slide": 1,
+            "pictures": 2,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 2,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 3,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 4,
+            "pictures": 2,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 5,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 6,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 7,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 8,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 9,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 10,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 11,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 12,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 13,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 14,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 15,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 16,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 17,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 18,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 19,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 20,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 21,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 22,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 23,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 24,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 25,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 26,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 27,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 28,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 29,
+            "pictures": 2,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 30,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 31,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 32,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 33,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 34,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 35,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 36,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 37,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 38,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 39,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 40,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 41,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 42,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 43,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 44,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 45,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 46,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 47,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 48,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 49,
+            "pictures": 2,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 50,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 51,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 52,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 53,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 54,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 55,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 56,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 57,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 58,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 59,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          }
+        ],
+        "status": "All slide text and available notes extracted; embedded visuals need review"
+      },
+      "actual_slide_xmls": 59,
+      "extraction_files": [
+        "slide-018.md",
+        "slide-036.md",
+        "slide-037.md",
+        "slide-038.md",
+        "slide-039.md",
+        "slide-040.md",
+        "slide-041.md",
+        "slide-042.md",
+        "slide-043.md",
+        "slide-044.md",
+        "slide-045.md",
+        "slide-046.md",
+        "slide-047.md",
+        "slide-048.md",
+        "slide-049.md",
+        "slide-050.md",
+        "slide-051.md",
+        "slide-052.md",
+        "slide-053.md",
+        "slide-054.md",
+        "slide-055.md",
+        "slide-056.md",
+        "slide-057.md",
+        "slide-058.md",
+        "slide-059.md",
+        "visual_map.json",
+        "content.md",
+        "media",
+        "slide-001.md",
+        "slide-002.md",
+        "slide-003.md",
+        "slide-004.md",
+        "slide-005.md",
+        "slide-006.md",
+        "slide-007.md",
+        "slide-008.md",
+        "slide-009.md",
+        "slide-010.md",
+        "slide-011.md",
+        "slide-012.md",
+        "slide-013.md",
+        "slide-014.md",
+        "slide-015.md",
+        "slide-016.md",
+        "slide-017.md",
+        "slide-019.md",
+        "slide-020.md",
+        "slide-021.md",
+        "slide-022.md",
+        "slide-023.md",
+        "slide-024.md",
+        "slide-025.md",
+        "slide-026.md",
+        "slide-027.md",
+        "slide-028.md",
+        "slide-029.md",
+        "slide-030.md",
+        "slide-031.md",
+        "slide-032.md",
+        "slide-033.md",
+        "slide-034.md",
+        "slide-035.md"
+      ]
+    },
+    {
+      "id": "S32",
+      "filename": "LCASEAN Module 1 The Making of ASEAN.pptx",
+      "type": ".pptx",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": null,
+      "page_files": 0,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S32",
+        "filename": "LCASEAN Module 1 The Making of ASEAN.pptx",
+        "type": ".pptx",
+        "sha256": "f03cc9a0eddc62eb018de660024cffb42ef47651c7d1c98784b0b55a36e2134a",
+        "output": "extracted/S32",
+        "title": "THE  MAKING OF ASEAN / LCASEAN / MODULE 1",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "slides": 21,
+        "slide_details": [
+          {
+            "slide": 1,
+            "pictures": 0,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 2,
+            "pictures": 0,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 3,
+            "pictures": 0,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 4,
+            "pictures": 0,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 5,
+            "pictures": 0,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 6,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 7,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 8,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 9,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 10,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 11,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 12,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 13,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 14,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 15,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 16,
+            "pictures": 1,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 17,
+            "pictures": 0,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 18,
+            "pictures": 0,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 19,
+            "pictures": 0,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 20,
+            "pictures": 0,
+            "charts": 0,
+            "notes": false
+          },
+          {
+            "slide": 21,
+            "pictures": 0,
+            "charts": 0,
+            "notes": false
+          }
+        ],
+        "status": "All slide text and available notes extracted; embedded visuals need review"
+      },
+      "actual_slide_xmls": 21,
+      "extraction_files": [
+        "content.md",
+        "media",
+        "slide-001.md",
+        "slide-002.md",
+        "slide-003.md",
+        "slide-004.md",
+        "slide-005.md",
+        "slide-006.md",
+        "slide-007.md",
+        "slide-008.md",
+        "slide-009.md",
+        "slide-010.md",
+        "slide-011.md",
+        "slide-012.md",
+        "slide-013.md",
+        "slide-014.md",
+        "slide-015.md",
+        "slide-016.md",
+        "slide-017.md",
+        "slide-018.md",
+        "slide-019.md",
+        "slide-020.md",
+        "slide-021.md",
+        "visual_map.json"
+      ]
+    },
+    {
+      "id": "S33",
+      "filename": "Links.txt",
+      "type": ".txt",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": null,
+      "page_files": 0,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S33",
+        "filename": "Links.txt",
+        "type": ".txt",
+        "sha256": "07e4c13a6b1e168282be50b706e6ed4f64a200a501e08b01411f83e7ef1a0477",
+        "output": "extracted/S33",
+        "title": "Links",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "urls": [
+          "https://youtu.be/2GWcgKNMxjo",
+          "https://timesofindia.indiatimes.com/blogs/ChanakyaCode/asean-china-single-draft-code-of-conduct-reflection-of-continuing-differences/",
+          "https://thediplomat.com/2019/06/saving-the-china-asean-south-china-sea-code-of-conduct/",
+          "https://amti.csis.org/blueprint-for-south-china-sea-code-of-conduct/",
+          "https://asean.org/?static_post=declaration-on-the-conduct-of-parties-in-the-south-china-sea-2",
+          "https://www.youtube.com/watch?v=BzeL0ToM2WA&t=212s",
+          "http://www.inquiriesjournal.com/articles/1318/norm-or-necessity-the-non-interference-principle-in-asean",
+          "https://techwireasia.com/2016/07/will-common-currency-viable-economic-growth-asean3/",
+          "https://www.tandfonline.com/doi/full/10.1080/00036840600675653",
+          "https://asean.org/?static_post=towards-asean-financial-integration",
+          "https://asean.org/?static_post=declaration-on-the-conduct-of-parties-in-the-south-china-sea-2"
+        ],
+        "status": "Fully extracted"
+      }
+    },
+    {
+      "id": "S34",
+      "filename": "Mallory China as a Distant Water Fishing Nation.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 12,
+      "page_files": 12,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S34",
+        "filename": "Mallory China as a Distant Water Fishing Nation.pdf",
+        "type": ".pdf",
+        "sha256": "e93c46fcc8b9d987e861812a37c994d39248852708f6c2e548b73dcd525ce2d3",
+        "output": "extracted/S34",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 12,
+        "extracted_pages": 12,
+        "low_text_pages": [],
+        "characters": 41084,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S35",
+      "filename": "Sardesai Independent Philippines.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 24,
+      "page_files": 24,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S35",
+        "filename": "Sardesai Independent Philippines.pdf",
+        "type": ".pdf",
+        "sha256": "bbc1154bc76fce78baba40d7a6cb0390bb315f37ecd2bf5ca8e8b1a5926ba9d9",
+        "output": "extracted/S35",
+        "title": "Creator:         PDFsam Basic v3.3.7",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 24,
+        "extracted_pages": 24,
+        "low_text_pages": [],
+        "characters": 69635,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S36",
+      "filename": "Sardesai Indonesia Unity amid Diversity.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 17,
+      "page_files": 17,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S36",
+        "filename": "Sardesai Indonesia Unity amid Diversity.pdf",
+        "type": ".pdf",
+        "sha256": "0f861c356d97ad56bfcb40e36512ce2f82dcabf51d0c3323c9971314ee8e2ae3",
+        "output": "extracted/S36",
+        "title": "Creator:         PDFsam Basic v3.3.7",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 17,
+        "extracted_pages": 17,
+        "low_text_pages": [],
+        "characters": 49383,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S37",
+      "filename": "Sardesai Malaysia Singapore and Brunei.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 27,
+      "page_files": 27,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S37",
+        "filename": "Sardesai Malaysia Singapore and Brunei.pdf",
+        "type": ".pdf",
+        "sha256": "b08f5d3e03a87012143b3937fd73ec2bdbffc97fe7e6a71045ef4a5be73b73ee",
+        "output": "extracted/S37",
+        "title": "Creator:         PDFsam Basic v3.3.7",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 27,
+        "extracted_pages": 27,
+        "low_text_pages": [],
+        "characters": 81149,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S38",
+      "filename": "Sardesai Thailand Freedom at Any Price.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 14,
+      "page_files": 14,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S38",
+        "filename": "Sardesai Thailand Freedom at Any Price.pdf",
+        "type": ".pdf",
+        "sha256": "6ff8a309d04d8cba8b968f77ce9aa06c7994c807d96cb252d999f44b056ce1fc",
+        "output": "extracted/S38",
+        "title": "Creator:         PDFsam Basic v3.3.7",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 14,
+        "extracted_pages": 14,
+        "low_text_pages": [],
+        "characters": 40627,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S39",
+      "filename": "Sardesai Vietnam and Cambodia under Communism.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 28,
+      "page_files": 28,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S39",
+        "filename": "Sardesai Vietnam and Cambodia under Communism.pdf",
+        "type": ".pdf",
+        "sha256": "3e3e7adfe88aad43db96710875c94d69d1ad8fea423068b4ed11588429bed313",
+        "output": "extracted/S39",
+        "title": "Creator:         PDFsam Basic v3.3.7",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 28,
+        "extracted_pages": 28,
+        "low_text_pages": [],
+        "characters": 80754,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S40",
+      "filename": "Thuzar Thinking and Feeling ASEAN.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 5,
+      "page_files": 5,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S40",
+        "filename": "Thuzar Thinking and Feeling ASEAN.pdf",
+        "type": ".pdf",
+        "sha256": "3289eff1ce89d285eda6e05c5c0f0652cb3d87b94a3f09eeb1211f253ffe21c3",
+        "output": "extracted/S40",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 5,
+        "extracted_pages": 5,
+        "low_text_pages": [],
+        "characters": 23052,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S41",
+      "filename": "Weatherbee The What and Why of Southeast Asia.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 26,
+      "page_files": 26,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S41",
+        "filename": "Weatherbee The What and Why of Southeast Asia.pdf",
+        "type": ".pdf",
+        "sha256": "821f560695d273fedc91598049e3e28e1671bdcc6fd5cee6d8b036358c7d71d3",
+        "output": "extracted/S41",
+        "title": "",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 26,
+        "extracted_pages": 26,
+        "low_text_pages": [],
+        "characters": 74982,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S42",
+      "filename": "Wong Social Media, Power and Democratisation in Malaysia Weapons of the Weak.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 44,
+      "page_files": 44,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S42",
+        "filename": "Wong Social Media, Power and Democratisation in Malaysia Weapons of the Weak.pdf",
+        "type": ".pdf",
+        "sha256": "2e613d773185406462d68cbe68e407e18a7a6fa51888dfc17e367940947dddc5",
+        "output": "extracted/S42",
+        "title": "ISEAS Working Paper 2014 #4",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 44,
+        "extracted_pages": 44,
+        "low_text_pages": [],
+        "characters": 84817,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    },
+    {
+      "id": "S43",
+      "filename": "Yukawa The ASEAN Way as a Symbol An Analysis of Discourses on the ASEAN Norms.pdf",
+      "type": ".pdf",
+      "source_exists": true,
+      "hash_matches_inventory": true,
+      "extraction_exists": true,
+      "expected_pages": 18,
+      "page_files": 18,
+      "empty_page_files": [],
+      "errors": "",
+      "inventory": {
+        "id": "S43",
+        "filename": "Yukawa The ASEAN Way as a Symbol An Analysis of Discourses on the ASEAN Norms.pdf",
+        "type": ".pdf",
+        "sha256": "6398ec9697226128033e1edc8f3f5309918939b66f0b1201090f6a7c3aeefd85",
+        "output": "extracted/S43",
+        "title": "RPRE_A_1371211_O",
+        "topic": "Pending content analysis",
+        "theme": "Pending content analysis",
+        "pages": 18,
+        "extracted_pages": 18,
+        "low_text_pages": [],
+        "characters": 62515,
+        "status": "Text extracted; visual content not yet audited",
+        "errors": ""
+      }
+    }
+  ],
+  "unlisted_originals": [],
+  "missing_originals": [],
+  "url_occurrences": 11,
+  "unique_urls": [
+    "https://youtu.be/2GWcgKNMxjo",
+    "https://timesofindia.indiatimes.com/blogs/ChanakyaCode/asean-china-single-draft-code-of-conduct-reflection-of-continuing-differences/",
+    "https://thediplomat.com/2019/06/saving-the-china-asean-south-china-sea-code-of-conduct/",
+    "https://amti.csis.org/blueprint-for-south-china-sea-code-of-conduct/",
+    "https://asean.org/?static_post=declaration-on-the-conduct-of-parties-in-the-south-china-sea-2",
+    "https://www.youtube.com/watch?v=BzeL0ToM2WA&t=212s",
+    "http://www.inquiriesjournal.com/articles/1318/norm-or-necessity-the-non-interference-principle-in-asean",
+    "https://techwireasia.com/2016/07/will-common-currency-viable-economic-growth-asean3/",
+    "https://www.tandfonline.com/doi/full/10.1080/00036840600675653",
+    "https://asean.org/?static_post=towards-asean-financial-integration"
+  ],
+  "module_text_present_in_master": {
+    "01_REGIONAL_FOUNDATIONS.md": true,
+    "02_COUNTRY_HISTORIES.md": true,
+    "03_MAKING_OF_ASEAN.md": true,
+    "04_STRUCTURES_AND_MECHANISMS.md": true,
+    "05_ASEAN_WAY_AND_SECURITY.md": true
+  }
+}
